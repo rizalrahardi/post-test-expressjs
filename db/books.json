@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "isbn":1,
+        "judul": "judul satu",
+        "sinopsis": "sinopsis satu",
+        "penulis": "penulis satu",
+        "genre": "genre satu"
+    },
+    {
+        "id": 2,
+        "isbn":2,
+        "judul": "judul dua",
+        "sinopsis": "sinopsis dua",
+        "penulis": "penulis dua",
+        "genre": "genre dua"
+    },
+    {
+        "id": 3,
+        "isbn":3,
+        "judul": "judul tiga",
+        "sinopsis": "sinopsis tiga",
+        "penulis": "penulis tiga",
+        "genre": "genre tiga"
+    },
+    {
+        "id": 4,
+        "isbn":4,
+        "judul": "judul empat",
+        "sinopsis": "sinopsis empat",
+        "penulis": "penulis empat",
+        "genre": "genre empat"
+    }
+]
