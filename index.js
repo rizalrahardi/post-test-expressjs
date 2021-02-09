@@ -21,8 +21,9 @@ app.post('/api/v1/books', (req, res) => {
     const { judul, sinopsis, penulis, genre} = req.body
 
     const id = books[books.length - 1].id + 1
+    const isbn = books[books.length - 1].isbn + 1
     const post = {
-        id, judul, sinopsis, penulis, genre
+        id, isbn, judul, sinopsis, penulis, genre
     }
 
     books.push(post)
